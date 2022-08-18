@@ -1,0 +1,17 @@
+"w"
+"aoi_dem_clip_khavr",14.1348248432473
+"ProflCur_kh",9.74255201279203
+"spi_kh",7.23280967509557
+"srad_khavr",5.96266384829945
+"Saturation_Mean_Sentinel_khavr",5.40440906933737
+"bio_15_khavr",3.77639940592684
+"b5_reflectance",3.61758258726788
+"Twi_kh",3.56885687115634
+"bio_1_khavr",3.47142596822923
+"ci_mean_kh",3.20476866271107
+"slope_kh",2.52668642406331
+"GNDVI_Mean_Sentinel_khavr",2.48927757732019
+"FlowAcc_kh",2.05416640180551
+"PlanCur_kh",1.81431756478094
+"bio_12_khavr",1.74436315997914
+"Sen_B08_Mean_30m_aoi",0.521863784626737
