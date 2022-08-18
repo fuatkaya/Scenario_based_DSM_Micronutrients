@@ -1,1 +1,2 @@
 # Scenario_based_DSM_Micronutrients
+This study is in the process of publication preparation in "Advances and applications of multivariate statistics and soil-crop sensing to improve nutrient use efficiency and monitor carbon cycling" special issue in of Nutrient Cycling in Agroecosystems journal. After the final submission, this page will update. We want to make the peer review process clearly with open access to data and codes. After decision, if the process results in acceptance, article citation information will be added.
